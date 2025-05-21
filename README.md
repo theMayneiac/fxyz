@@ -21,4 +21,4 @@ Right now you can put as large of a values of source coins as you want and it wi
 
 I also don't have logic I am happy with for the target coin result, it just shows three decimal places which is an okay precision it could be adjusted or dynamic. The thing I don't like about it is whenever you have a number for example `3` it will show as `3.000`. I would spend some time cleaning up this component next. 
 ### Links
-[Deployed Site](https://fxyz.vercel.app/)
+[Deployed Site](https://fxyz.vercel.app/).
